@@ -73,7 +73,7 @@ const CONFIG = {
 			id: '4',
 			name: 'University',
 			icon: 'graduation-cap',
-			link: 'https:coursera.org',
+			link: 'https://coursera.org',
 		},
 		{
 			id: '5',
