@@ -73,7 +73,7 @@ const CONFIG = {
 			id: '4',
 			name: 'University',
 			icon: 'graduation-cap',
-			link: 'https://youtube.com/',
+			link: 'https://youtube.com',
 		},
 		{
 			id: '5',
