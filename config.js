@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: 'Lalovsky',
 	imageBackground: false,
-	openInNewTab: true,
+	openInNewTab: false,
 	twelveHourFormat: false,
 
 	// Greetings
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Perplexity',
+			icon: 'search-check',
+			link: 'https://perplexity.ai',
 		},
 		{
 			id: '4',
@@ -165,12 +165,12 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'U. London',
+					link: 'https://my.london.ac.uk/web/guest',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Chess',
+					link: 'https://www.lichess.org',
 				},
 				{
 					name: 'Slack',
