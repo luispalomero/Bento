@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Lalovsky',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -27,7 +27,7 @@ const CONFIG = {
 
 	// Weather
 	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
-	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
+	weatherIcons: 'Nord', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'University',
+			icon: 'graduation-cap',
+			link: 'https:coursera.org',
 		},
 		{
 			id: '5',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'YouTube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Hip-hop',
+					link: 'https://www.youtube.com/watch?v=azwzZIZHXzk&list=RDazwzZIZHXzk&start_radio=1',
 				},
 				{
 					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://www.youtube.com/watch?v=lPlmFBYqzF0&pp=ygUscGxheWxpc3QgdG8gZmVlbCBsaWtlIGEgMTl0aCBjZW50dXJ5IHZpbGxhaW4%3D',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Gran Turismo Vibes',
+					link: 'https://www.youtube.com/watch?v=Rm8Isn0jP6E&pp=ygUVZ3JhbiB0dXJpc21vIHBsYXlsaXN0',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Lo-Fi jazz-hop',
+					link: 'https://www.youtube.com/watch?v=i5M1Y2JaL5U&t=4s',
 				},
 			],
 		},
